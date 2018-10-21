@@ -1,1 +1,1 @@
-专门放学习micropython的代码
+1,8266作为pyboardv2 小车的wifi扩展

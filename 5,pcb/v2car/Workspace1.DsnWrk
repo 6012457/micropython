@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\esp32control\esp32control.PrjPcb
+[Project2]
+ProjectPath=v21.PrjPcb
